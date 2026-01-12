@@ -1,6 +1,6 @@
 
   <h1 align="center">Hi, I'm Kinza Tasawar 👋</h1>
-  <h3 align="center">Building AI & Data Science Projects | Developer & Researcher</h3>
+  <h3 align="center">Developer & Researcher | Building AI & Data Science Projects</h3>
 <p align="center">
 <img src= "https://komarev.com/ghpvc/?username=Kinza-Tasawar" />
 </p>
