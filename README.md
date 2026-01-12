@@ -1,12 +1,13 @@
-# Hi, I'm Kinza Tasawar 👋
-Building AI & Data Science Projects |Developer & Researcher
----
+<p align="center">
+  <h1>Hi, I'm Kinza Tasawar 👋</h1>
+  <strong>Building AI & Data Science Projects | Developer & Researcher | Front-End Developer</strong>
+</p>
 
-## Profile Views
-![Profile Views](https://hits.sh/kinza-tasawar)
 ---
-
-CS Undergrad Focused on AI Research and Practical Applications
+<p align="center">
+  CS Undergrad Focused on AI Research and Practical Application
+</p>
+---
 
 ## About Me
 - 🎓 BSCS 7th Sem @ GCUF 
