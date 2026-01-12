@@ -1,4 +1,12 @@
 # Hi, I'm Kinza Tasawar 👋
+Building AI & Data Science Projects |Developer & Researcher
+---
+
+## Profile Views
+![Profile Views](https://hits.sh/kinza-tasawar)
+---
+
+CS Undergrad Focused on AI Research and Practical Applications
 
 ## About Me
 - 🎓 BSCS 7th Sem @ GCUF 
@@ -21,8 +29,8 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" width="45" style="filter: invert(1);" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg" width="45" style="filter: invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
 </p>
@@ -45,7 +53,7 @@
 ### Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="45" style="filter: invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
