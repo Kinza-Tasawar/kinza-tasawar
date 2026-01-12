@@ -65,22 +65,22 @@
 ## Certifications
 
 <a href="https://www.credly.com/badges/bd84f91b-f6e6-4779-9292-7d0d0b2d1282/public_url">
-  <img src="https://images.credly.com/images/99da6577-cbee-4a69-9ee9-0680a44649de/blob" width="100"/>
+  <img src="https://images.credly.com/images/99da6577-cbee-4a69-9ee9-0680a44649de/blob" width="90" style="margin-right:29rem/>
 </a>
 <a href="https://www.credly.com/badges/e2eadb82-b0e1-4e8d-9657-e8bdc9f68118/public_url">
-  <img src="https://images.credly.com/images/fa4ad241-cbb4-4330-9327-32b9696919fe/Coursera_20AI_20Engineering_20Professional_20Certificate.png" width="100"/>
+  <img src="https://github.com/Kinza-Tasawar/kinza-tasawar/blob/main/Coursera_AI_Engineering_Professional_Certificate.png" width="90" style="margin-right:29px/>
 </a>
 <a href="https://www.credly.com/badges/00e3e912-21c3-4cbb-b4e4-3e6e4fd8344a/public_url">
-  <img src="https://images.credly.com/images/1a546b64-d2d1-480a-9144-410112eb8fa0/blob" width="100"/>
+  <img src="https://images.credly.com/images/1a546b64-d2d1-480a-9144-410112eb8fa0/blob" width="90" style="margin-right:29px/>
 </a>
 <a href="https://www.credly.com/badges/0cd84fa2-1110-4701-b11a-9eb9d9d55e2f/public_url">
-  <img src="https://images.credly.com/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" width="100"/>
+  <img src="https://images.credly.com/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" width="90" style="padding-right:10px"/>
 </a>
 <a href="https://www.credly.com/badges/185cbff9-88f6-4366-ad5f-69a8f6209913/public_url">
-  <img src="https://images.credly.com/images/2577cdcb-1979-408c-b3d6-adb050ac7c04/Coursera_20Ethical_20Hacking_20with_20Kali_20Linux.png" width="100"/>
+  <img src="https://github.com/Kinza-Tasawar/kinza-tasawar/blob/main/Coursera_Ethical_Hacking_with_Kali_Linux.png" width="90" style="margin-right:29px"/>
 </a>
 <a href="https://www.credly.com/badges/f83269c1-d75a-46ec-8550-8e01b9555e87/public_url">
-  <img src="https://images.credly.com/images/3e91c6f6-1d05-4b40-9005-4344e35edaff/Coursera_20Advanced_20Deep_20Learning_20Specialist.png" width="100"/>
+  <img src="https://github.com/Kinza-Tasawar/kinza-tasawar/blob/main/Coursera_Advanced_Deep_Learning_Specialist.png" width="90" style="margin-right:15px"/>
 </a>
 
 
