@@ -94,3 +94,4 @@
 
 ## Connect With Me
 - GitHub: https://github.com/Kinza-Tasawar
+- Gmail: infinitegraphics384@gmail.com
